@@ -1,0 +1,4 @@
+Uer-agent: *
+Disallow: /favicon.ico
+
+Sitemap: https://xianweiqi.io/sitemap.xml
