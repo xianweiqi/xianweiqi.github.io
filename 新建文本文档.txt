@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /favicon.ico
 
-Sitemap: https://xianweiqi.io/sitemap.xml
+Sitemap: https://xianweiqi.github.io/sitemap.xml
